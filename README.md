@@ -49,7 +49,7 @@ print( "random number : " ,number )
 
 3. Running the Program:
 
-To use the NixOS shell and run your C++ program, follow these steps:
+To use the NixOS shell and run your Python program, follow these steps:
 
   1. Check for `shell.nix` file in your project directory.
   2. Open a terminal and navigate to your project directory.
