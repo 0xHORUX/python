@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm 0xhorux</h1>
 <h3 align="center">Never stop : experiencing, learning, living!</h3>
 
-- 🔭 I’m currently learning and practice python programming.
+- 🔭 I’m currently learning and practicing python programming.
 
 ## Nixos Python development
 
